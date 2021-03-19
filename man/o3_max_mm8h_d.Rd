@@ -3,14 +3,14 @@
 \docType{data}
 \name{o3_max_mm8h_d}
 \alias{o3_max_mm8h_d}
-\title{Tibble con i dati di o3_max_mm8h_d per 3 stazioni della regione SICILIA}
+\title{Tibble con i dati di o3_max_mm8h_d per 8 stazioni della regione SICILIA}
 \format{
-Un tibble con 8 colonne e 8214 osservazioni
+Un tibble con 8 colonne e 18168 osservazioni
 }
 \usage{
 o3_max_mm8h_d
 }
 \description{
-Tibble con i dati di o3_max_mm8h_d per 3 stazioni della regione SICILIA
+Tibble con i dati di o3_max_mm8h_d per 8 stazioni della regione SICILIA
 }
 \keyword{datasets}
