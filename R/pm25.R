@@ -1,6 +1,6 @@
-#' Tibble con i dati di pm25 per 1 stazioni della regione SICILIA
+#' Tibble con i dati di pm25 per 4 stazioni della regione SICILIA
 #'
-#' @format Un tibble con 8 colonne e 2238 osservazioni
+#' @format Un tibble con 8 colonne e 5853 osservazioni
 #'
 #' @usage
 #' pm25

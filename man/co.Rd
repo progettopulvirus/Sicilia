@@ -3,14 +3,14 @@
 \docType{data}
 \name{co}
 \alias{co}
-\title{Tibble con i dati di co per 3 stazioni della regione SICILIA}
+\title{Tibble con i dati di co per 8 stazioni della regione SICILIA}
 \format{
-Un tibble con 8 colonne e 8217 osservazioni
+Un tibble con 8 colonne e 20650 osservazioni
 }
 \usage{
 co
 }
 \description{
-Tibble con i dati di co per 3 stazioni della regione SICILIA
+Tibble con i dati di co per 8 stazioni della regione SICILIA
 }
 \keyword{datasets}
